@@ -988,6 +988,12 @@
     ]
   },
   {
+    "modId": "ichunutil",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Can cause invisible entities in your world, as noted on this #link:[issue report](https://github.com/iChun/iChunUtil/issues/178#issuecomment-2917948068)."
+  },
+  {
     "modId": "ikwid",
     "status": "DEPRECATED",
     "replacementModName": "Universal Tweaks",
@@ -2080,6 +2086,12 @@
     "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/universal-tweaks",
     "action": "REPLACE",
     "message": "Better implementation exists in #link:[Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)."
+  },
+  {
+    "modId": "tropicraft",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Has tons of issues and memory leaks. It also introduces its own swimming system that won't work well with Aqua Acrobatics."
   },
   {
     "modId": "twilightforest",
