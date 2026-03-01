@@ -797,6 +797,12 @@
     "message": "Future Fireproof has a better implementation and API features. #link:[Future Fireproof](https://www.curseforge.com/minecraft/mc-mods/future-fireproof)."
   },
   {
+    "modId": "fluidlogged_api",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "Can impact performance."
+  },
+  {
     "modId": "foamfix",
     "status": "DEPRECATED",
     "replacementModName": "VintageFix",
@@ -1377,6 +1383,12 @@
     "status": "PROBLEMATIC",
     "action": "REMOVE",
     "message": "Outdated Vintagium fork. Use #link:[Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium) and #link:[Naughthirium](https://www.curseforge.com/minecraft/mc-mods/naughthirium) or (Cleanroom Only) #link:[Celeritas](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)."
+  },
+  {
+    "modId": "nether_api",
+    "status": "PROBLEMATIC",
+    "action": "INFO",
+    "message": "May cause your world spawn to be underwater at an Ocean biome. It also makes changes to certain mods (generated features and mob spawns)."
   },
   {
     "modId": "netherportalfix",
