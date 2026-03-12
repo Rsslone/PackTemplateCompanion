@@ -1085,6 +1085,12 @@
     "message": "Outdated. Use #link:[Had Enough Characters](https://www.curseforge.com/minecraft/mc-mods/had-enough-characters)."
   },
   {
+    "modId": "jehighlights",
+    "status": "DEPRECATED",
+    "action": "REMOVE",
+    "message": "Completely redundant. #link:[Just Enough Items (JEI) / Had Enough Items (HEI)](https://www.curseforge.com/minecraft/mc-mods/had-enough-items) already has the same feature."
+  },
+  {
     "modId": "jeid",
     "version": "2.2.4",
     "isMinVersion": true,
@@ -1103,10 +1109,10 @@
     "isMaxVersion": false,
     "isVersionExclusive": true,
     "status": "DEPRECATED",
-    "replacementModName": "HadEnoughItems (HEI)",
+    "replacementModName": "Had Enough Items (HEI)",
     "replacementModLink": "https://www.curseforge.com/minecraft/mc-mods/had-enough-items",
     "action": "REPLACE",
-    "message": "Outdated. Use #link:[HadEnoughItems (HEI)](https://www.curseforge.com/minecraft/mc-mods/had-enough-items)."
+    "message": "Outdated. Use #link:[Had Enough Items (HEI)](https://www.curseforge.com/minecraft/mc-mods/had-enough-items)."
   },
   {
     "modId": "jei",
