@@ -1828,7 +1828,7 @@
                 "message":"The `Farmland Trample` tweak is located in `Universal Tweaks - Tweaks.cfg` → `general` → `blocks`.",
                 "dependencies":[
                     {
-                        "modId": "tidychunk"
+                        "modId": "tramplestopper"
                     }
                 ]
             },
@@ -1864,7 +1864,7 @@
                 "type": "boolean",
                 "value": "false",
                 "shouldMatch":"true",
-                "message":"The `No Enchantment Table Obstruction` tweak is located in `Universal Tweaks - Tweaks.cfg` → `general` → `misc`.",
+                "message":"The `Use Separate Dismount Key` tweak is located in `Universal Tweaks - Tweaks.cfg` → `general` → `misc`.",
                 "dependencies":[
                     {
                         "modId": "unridekeybind"
