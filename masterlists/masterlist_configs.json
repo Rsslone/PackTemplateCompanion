@@ -1086,6 +1086,19 @@
                 ]
             },
             {
+                "name": "Mining Glitch",
+                "field": "mod.acgaming.universaltweaks.config.UTConfigBugfixes#BLOCKS#utMiningGlitchToggle",
+                "type": "boolean",
+                "value": "false",
+                "shouldMatch":"true",
+                "message":"The `Mining Glitch` fix is located in `Universal Tweaks - Bugfixes.cfg` → `general` → `blocks`.",
+                "dependencies":[
+                    {
+                        "modId": "ihateghostblocks"
+                    }
+                ]
+            },
+            {
                 "name": "[5] Disable Tutorial Toasts",
                 "field": "mod.acgaming.universaltweaks.config.UTConfigTweaks#ENTITIES#MISC#TOAST_CONTROL#utToastControlTutorialToggle",
                 "type": "boolean",
@@ -1345,6 +1358,19 @@
                 "dependencies":[
                     {
                         "modId": "nanfix"
+                    }
+                ]
+            },
+            {
+                "name": "Disable Narrator",
+                "field": "mod.acgaming.universaltweaks.config.UTConfigTweaks#MISC#utDisableNarratorToggle",
+                "type": "boolean",
+                "value": "false",
+                "shouldMatch":"true",
+                "message":"The `Disable Narrator` tweak is located in `Universal Tweaks - Tweaks.cfg` → `general` → `misc`.",
+                "dependencies":[
+                    {
+                        "modId": "narrus_yeetus"
                     }
                 ]
             },
