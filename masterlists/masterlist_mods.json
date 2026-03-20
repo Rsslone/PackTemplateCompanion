@@ -978,20 +978,6 @@
     "message": "Outdated. Use #link:[Hot or Not Plus](https://www.curseforge.com/minecraft/mc-mods/hot-or-not-plus)."
   },
   {
-    "modId": "ic2",
-    "action": "INCLUDE",
-    "patchList": [
-      {
-        "modName": "IC2 Patcher",
-        "modId": "ic2patcher",
-        "isClassLoaded": true,
-        "classpath": "mods.su5ed.ic2patcher.asm.PatcherClassTransformer",
-        "modLink": "https://www.curseforge.com/minecraft/mc-mods/ic2-patcher",
-        "modDescription": "Fixes several issues in IndustrialCraft2."
-      }
-    ]
-  },
-  {
     "modId": "ichunutil",
     "status": "PROBLEMATIC",
     "action": "INFO",

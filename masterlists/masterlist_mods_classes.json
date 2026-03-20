@@ -115,6 +115,23 @@
     "message": "Outdated. Use #link:[Forgelin-Continuous](https://www.curseforge.com/minecraft/mc-mods/forgelin-continuous)."
   },
   {
+    "modId": "ic2",
+    "verification": "CLASSLOADED",
+    "className": "ic2.core.ContainerBase",
+    "versionHash": "",
+    "action": "INCLUDE",
+    "patchList": [
+      {
+        "modName": "IC2 Patcher",
+        "modId": "ic2patcher",
+        "isClassLoaded": true,
+        "classpath": "mods.su5ed.ic2patcher.asm.PatcherClassTransformer",
+        "modLink": "https://www.curseforge.com/minecraft/mc-mods/ic2-patcher",
+        "modDescription": "Fixes several issues in IndustrialCraft2."
+      }
+    ]
+  },
+  {
     "modId": "Cleanroom",
     "status": "PROBLEMATIC",
     "verification": "CLASSLOADED",
