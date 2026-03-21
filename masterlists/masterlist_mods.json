@@ -1072,8 +1072,8 @@
   {
     "modId": "jehighlights",
     "status": "DEPRECATED",
-    "action": "REMOVE",
-    "message": "Completely redundant. #link:[Just Enough Items (JEI) / Had Enough Items (HEI)](https://www.curseforge.com/minecraft/mc-mods/had-enough-items) already has the same feature."
+    "action": "INFO",
+    "message": "#link:[More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays) includes a more configurable version of the features of JustEnoughHighlights, but has other features as well."
   },
   {
     "modId": "jeid",
